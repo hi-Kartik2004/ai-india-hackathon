@@ -1,8 +1,8 @@
 ## Solution Video
 
-[![Watch the video](https://drive.google.com/thumbnail?id=1XVYjzuXGzlZ0_rQyT_x0RbYqwgqm4v8w&sz=w1280)](https://drive.google.com/file/d/1XVYjzuXGzlZ0_rQyT_x0RbYqwgqm4v8w/view?usp=drive_link)
+<video src="https://github.com/hi-Kartik2004/ai-india-hackathon/releases/download/v1.0-demo/HD_Video_IndiaAiHackathon.mov" controls width="100%"></video>
 
-▶ [Watch HD Video on Google Drive](https://drive.google.com/file/d/1XVYjzuXGzlZ0_rQyT_x0RbYqwgqm4v8w/view?usp=drive_link)
+▶ [Direct download (HD)](https://github.com/hi-Kartik2004/ai-india-hackathon/releases/download/v1.0-demo/HD_Video_IndiaAiHackathon.mov)
 
 ## Archecture
 ![alt text](image.png)
