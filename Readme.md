@@ -1,6 +1,6 @@
 ## Solution Video
 
-<video src="https://github.com/hi-Kartik2004/ai-india-hackathon/releases/download/v1.0-demo/HD_Video_IndiaAiHackathon.mov" controls width="100%"></video>
+https://github.com/hi-Kartik2004/ai-india-hackathon/releases/download/v1.0-demo/HD_Video_IndiaAiHackathon.mov
 
 ▶ [Direct download (HD)](https://github.com/hi-Kartik2004/ai-india-hackathon/releases/download/v1.0-demo/HD_Video_IndiaAiHackathon.mov)
 
