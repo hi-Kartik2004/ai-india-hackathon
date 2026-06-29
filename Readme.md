@@ -1,4 +1,4 @@
-## Solution Video
+## Solution Video (Click to play)
 
 [![Watch the video](https://drive.google.com/thumbnail?id=1XVYjzuXGzlZ0_rQyT_x0RbYqwgqm4v8w&sz=w1280)](https://drive.google.com/file/d/1XVYjzuXGzlZ0_rQyT_x0RbYqwgqm4v8w/view?usp=drive_link)
 
